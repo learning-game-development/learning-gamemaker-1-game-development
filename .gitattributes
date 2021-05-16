@@ -1,0 +1,6 @@
+* text=auto
+
+# Documentation
+*.md              text diff=markdown
+LICENSE           text
+*.*ignore         text
