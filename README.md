@@ -9,7 +9,8 @@ Projects, samples and templates created to learn game development with the Game 
 
 ### Game Maker: Studio Tutorials
 
-TODO
+1. :file_folder:[Game Maker in-editor tutorials](game-maker-tutorials/)
+2. :file_folder: [Learn how to make 20 games in This Game Maker Studio Tutorial](learn-how-to-make-20-games/)
 
 ## :page_with_curl: License
 
