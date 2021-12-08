@@ -7,7 +7,7 @@
 
 ## :beginner: Game Tutorials
 
-WIP
+:construction: WIP
 
 ## :page_with_curl: License
 
