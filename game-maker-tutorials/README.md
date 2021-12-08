@@ -7,7 +7,14 @@ These are the in-editor tutorials found in Game Maker: Studio 1.4
 
 ## :beginner: In-editor Tutorials
 
-:heavy_check_mark: Your First Game (catch-the-clown-tutorial.gmx)
+1. :heavy_check_mark: Your First Game (catch-the-clown-tutorial.gmx)
+2. GM Basics (md-basics-breakout.gmx)
+   1. :heavy_check_mark: Resources
+   2. :heavy_check_mark: Movement
+   3. :heavy_check_mark: Collisions
+   4. :heavy_check_mark: Gameplay
+   5. :heavy_check_mark: Sound
+   6. :o: Animation
 
 ## :page_with_curl: License
 
